@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileDuplication": {
+      "commandName": "Project",
+      "commandLineArgs": "-d allfiles.dups"
+    }
+  }
+}
